@@ -1,3 +1,6 @@
-### <랭체인LangChain 노트> - LangChain 한국어 튜토리얼
+## 이런 저런 RAG 관련 학습
 
-https://wikidocs.net/book/14314
+참고 사이트
+* https://wikidocs.net/book/14314
+* https://github.com/langchain-ai/langchain/tree/master/cookbook
+
